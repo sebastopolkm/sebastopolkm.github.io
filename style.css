@@ -8,6 +8,7 @@ body {
   display: grid;
   width: 100vw;
   height: 60vh;
+  min-height: 400px;
   grid-template-columns: repeat(10, 1fr);
   grid-template-rows: repeat(10, 1fr);  
   margin: 0;
