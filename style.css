@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding; 0;
+  padding: 0;
   background: rgb(131,157,157);
 }
 
@@ -68,12 +68,12 @@ ul {
   
   
 }
-
+/*
 #2 {
   position: relative;
   left: 10px;
 }
-
+*/
 footer {
   font-size: 1.1em;
   font-family:  'Libre Baskerville', serif;
